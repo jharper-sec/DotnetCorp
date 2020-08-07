@@ -1,5 +1,3 @@
-using System.Collections.Generic;
-
 namespace DotnetCorp.Models
 {
     public class UserModel
@@ -14,10 +12,5 @@ namespace DotnetCorp.Models
         public string SocialSecurityNumber { get; set; }
         public string Salary { get; set; }
         public string Admin { get; set; }
-    }
-
-    public class UserListModel
-    {
-        public List<UserModel> Users { get; set; }
     }
 }
