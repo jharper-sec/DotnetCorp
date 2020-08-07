@@ -1,0 +1,18 @@
+version: "3.8"
+services:
+  dotnetcorp:
+    build:
+      context: .
+      dockerfile: Dockerfile-Contrast
+    image: dotnetcorp:latest
+    ports:
+      - "5000:5000"
+    environment:
+      - CONTRAST__API__URL=${CONTRAST__API__URL}
+      - CONTRAST__API__API_KEY=${CONTRAST__API__API_KEY}
+      - CONTRAST__API__SERVICE_KEY=${CONTRAST__API__SERVICE_KEY}
+      - CONTRAST__API__USER_NAME=${CONTRAST__API__USER_NAME}
+      - CORECLR_PROFILER_PATH_64=contrast\runtimes\linux-x64\native\ContrastProfiler.so
+      - CORECLR_PROFILER={8B2CE134-0948-48CA-A4B2-80DDAD9F5791}
+      - CORECLR_ENABLE_PROFILING=1
+      - CONTRAST__APPLICATION__NAME=dotnetcorp

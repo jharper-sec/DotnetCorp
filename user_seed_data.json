@@ -1,0 +1,98 @@
+[
+    {
+        "firstName": "Elliot",
+        "lastName": "Alderson",
+        "company": "Allsafe",
+        "title": "Cybersecurity Engineer",
+        "emailAddress": "elliot.alderson@allsafe.co",
+        "phoneNumber": "212-555-0179",
+        "dateOfBirth": "09-17-1987",
+        "socialSecurityNumber": "278-94-1897",
+        "salary": "120000",
+        "admin": "true"
+    },
+    {
+        "firstName": "Tyrell",
+        "lastName": "Wellick",
+        "company": "Evil Corp",
+        "title": "Senior Vice President of Technology",
+        "emailAddress": "tyrell.wellick@evil.corp",
+        "phoneNumber": "323-867-5309",
+        "dateOfBirth": "12-25-1982",
+        "socialSecurityNumber": "315-45-6789",
+        "salary": "350000",
+        "admin": "false"
+    },
+    {
+        "firstName": "Angela",
+        "lastName": "Moss",
+        "company": "Allsafe",
+        "title": "Account Executive",
+        "emailAddress": "angela.moss@allsafe.co",
+        "phoneNumber": "332-222-2222",
+        "dateOfBirth": "02-27-1988",
+        "socialSecurityNumber": "271-62-8721",
+        "salary": "100000",
+        "admin": "false"
+    },
+    {
+        "firstName": "Gideon",
+        "lastName": "Goddard",
+        "company": "Allsafe",
+        "title": "Chief Executive Officer",
+        "emailAddress": "gideon.goddard@allsafe.co",
+        "phoneNumber": "347-882-2872",
+        "dateOfBirth": "04-06-1963",
+        "socialSecurityNumber": "758-28-2732",
+        "salary": "500000",
+        "admin": "false"
+    },
+    {
+        "firstName": "Lloyd",
+        "lastName": "Chung",
+        "company": "Allsafe",
+        "title": "Cybersecurity Engineer",
+        "emailAddress": "lloyd.chung@allsafe.co",
+        "phoneNumber": "516-982-2812",
+        "dateOfBirth": "12-08-1984",
+        "socialSecurityNumber": "901-38-2837",
+        "salary": "120000",
+        "admin": "true"
+    },
+    {
+        "firstName": "Ollie",
+        "lastName": "Parker",
+        "company": "Allsafe",
+        "title": "Account Executive",
+        "emailAddress": "ollie.parker@allsafe.co",
+        "phoneNumber": "518-823-2822",
+        "dateOfBirth": "03-13-1986",
+        "socialSecurityNumber": "451-37-2912",
+        "salary": "110000",
+        "admin": "false"
+    },
+    {
+        "firstName": "Terry",
+        "lastName": "Colby",
+        "company": "Evil Corp",
+        "title": "Chief Technology Officer",
+        "emailAddress": "terry.colby@evil.corp",
+        "phoneNumber": "585-283-1723",
+        "dateOfBirth": "07-18-1958",
+        "socialSecurityNumber": "532-82-7210",
+        "salary": "750000",
+        "admin": "false"
+    },
+    {
+        "firstName": "Scott",
+        "lastName": "Knowles",
+        "company": "Evil Corp",
+        "title": "Senior Vice President of Technology",
+        "emailAddress": "scott.knowles@evil.corp",
+        "phoneNumber": "607-912-2874",
+        "dateOfBirth": "09-14-1962",
+        "socialSecurityNumber": "226-77-8720",
+        "salary": "500000",
+        "admin": "false"
+    }
+]
